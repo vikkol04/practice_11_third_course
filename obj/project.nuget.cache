@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fCZlvP/LY5bnXFIu5K8WaAj7bTTkokxyPNnPVxDUiN47b/Yu6xI0rGVGlUyIIMNnGwMPeOdq2C2yDWicEYLyBg==",
+  "success": true,
+  "projectFilePath": "F:\\University\\Интернет технологии и базы данных\\Практика\\11\\practice_11_third_course\\practice_11_third_course.csproj",
+  "expectedPackageFiles": [
+    "D:\\Users\\vikkol\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

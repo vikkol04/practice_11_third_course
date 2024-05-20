@@ -1,0 +1,11 @@
+{
+  "Make": "Tesla",
+  "Model": "Model S",
+  "Year": 2020,
+  "IsElectric": true,
+  "Features": [
+    "Autopilot",
+    "Electric motor",
+    "Glass roof"
+  ]
+}

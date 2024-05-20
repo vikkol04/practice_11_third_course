@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Car xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Make>Porshe</Make>
+  <Model>Turbo S</Model>
+  <Year>2016</Year>
+  <IsElectric>false</IsElectric>
+  <Features>
+    <string>Active Aerodynamics</string>
+    <string>Launch Control</string>
+    <string>Turbocharged Engine</string>
+  </Features>
+</Car>

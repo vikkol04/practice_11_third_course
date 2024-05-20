@@ -1,0 +1,17 @@
+F:\University\Интернет технологии и базы данных\Практика\11\practice_11_third_course\obj\Debug\net8.0\practice_11_third_course.GeneratedMSBuildEditorConfig.editorconfig
+F:\University\Интернет технологии и базы данных\Практика\11\practice_11_third_course\obj\Debug\net8.0\practice_11_third_course.AssemblyInfoInputs.cache
+F:\University\Интернет технологии и базы данных\Практика\11\practice_11_third_course\obj\Debug\net8.0\practice_11_third_course.AssemblyInfo.cs
+F:\University\Интернет технологии и базы данных\Практика\11\practice_11_third_course\obj\Debug\net8.0\practice_11_third_course.csproj.CoreCompileInputs.cache
+F:\University\Интернет технологии и базы данных\Практика\11\practice_11_third_course\bin\Debug\net8.0\practice_11_third_course.exe
+F:\University\Интернет технологии и базы данных\Практика\11\practice_11_third_course\bin\Debug\net8.0\practice_11_third_course.deps.json
+F:\University\Интернет технологии и базы данных\Практика\11\practice_11_third_course\bin\Debug\net8.0\practice_11_third_course.runtimeconfig.json
+F:\University\Интернет технологии и базы данных\Практика\11\practice_11_third_course\bin\Debug\net8.0\practice_11_third_course.dll
+F:\University\Интернет технологии и базы данных\Практика\11\practice_11_third_course\bin\Debug\net8.0\practice_11_third_course.pdb
+F:\University\Интернет технологии и базы данных\Практика\11\practice_11_third_course\bin\Debug\net8.0\Newtonsoft.Json.dll
+F:\University\Интернет технологии и базы данных\Практика\11\practice_11_third_course\obj\Debug\net8.0\practice_11_third_course.csproj.AssemblyReference.cache
+F:\University\Интернет технологии и базы данных\Практика\11\practice_11_third_course\obj\Debug\net8.0\practice.8708406C.Up2Date
+F:\University\Интернет технологии и базы данных\Практика\11\practice_11_third_course\obj\Debug\net8.0\practice_11_third_course.dll
+F:\University\Интернет технологии и базы данных\Практика\11\practice_11_third_course\obj\Debug\net8.0\refint\practice_11_third_course.dll
+F:\University\Интернет технологии и базы данных\Практика\11\practice_11_third_course\obj\Debug\net8.0\practice_11_third_course.pdb
+F:\University\Интернет технологии и базы данных\Практика\11\practice_11_third_course\obj\Debug\net8.0\practice_11_third_course.genruntimeconfig.cache
+F:\University\Интернет технологии и базы данных\Практика\11\practice_11_third_course\obj\Debug\net8.0\ref\practice_11_third_course.dll
